@@ -1,8 +1,8 @@
 const inquirer = require('inquirer');
 
-// const fs = require('fs');
+const fs = require('fs');
 
-// const generatePage = require('./src/page-template.js');
+const generatePage = require('./page-template');
 
 // const pageHTML = generatePage(name, github);
 
